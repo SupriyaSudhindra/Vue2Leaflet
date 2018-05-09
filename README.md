@@ -64,6 +64,7 @@ Leaflet plugins can easily work with Vue2Leaflet, if you want to use one I would
 *  [vue-choropleth](https://github.com/voluntadpear/vue-choropleth) to display a choropleth map given a certain GeoJSON
 *  [vue2-leaflet-geosearch](https://github.com/fega/vue2-leaflet-geosearch) wrapper for [GeoSearch](https://github.com/smeijer/leaflet-geosearch)
 *  [vue2-leaflet-vectorgrid](https://github.com/tesselo/vue2-leaflet-vectorgrid) wrapper for [VectorGrid](https://github.com/Leaflet/Leaflet.VectorGrid) to display gridded vector data
+* [vue2-leaflet-editablepolyline](https://github.com/SupriyaSudhindra/vue2-leaflet-editablepolyline) wrapper for [leaflet-editable-polyline](https://github.com/tkrajina/leaflet-editable-polyline)
 
 If you have created a plugin and want it to be listed here, let me know :-).
 
